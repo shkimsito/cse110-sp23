@@ -1,4 +1,4 @@
-# CSE 110 SP 23 Submissions
+## Submitted Projects
 * [Group 1 - Orgami Fortune Teller](https://cse110-sp23-group1.github.io/Origami-Fortune-Teller/)
 * [Group 2 - Tarot Card Reader](https://cse110-sp23-group02.github.io/cse110-sp23-group02/source/index.html)
 * [Group 3 - Palm Reader](https://cse110-sp23-group3.github.io/cse110-sp23-group3/source/)
